@@ -1,0 +1,9 @@
+# Runtime dependencies for Pi_Client (py_client)
+# Install with:  pip install -r requirements.txt
+
+websockets>=10.0,<12.0
+python-dotenv>=1.0
+
+# Optional (dev / testing) — install with:
+#   pip install -r requirements.txt -r requirements-dev.txt
+# or:  pip install -e ".[dev]"
